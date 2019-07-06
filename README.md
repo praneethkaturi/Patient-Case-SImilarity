@@ -1,5 +1,6 @@
 ## Patient-Case-Similarity
-Smart India Hackathon grand fianlist
+Smart India Hackathon grand fianlist.
+
 The goal of this project is to identify the similarity between given patients base on their demographics, lab-test values, prescription
 notes, discharge summaries etc.
 
